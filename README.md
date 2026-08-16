@@ -1,4 +1,4 @@
-## Hey, I'm Meet 👋
+## Hey, I'm Michael Philip (Meethybrid) 👋
 
 Full-stack engineer. I build real-time systems, data pipelines, and production APIs.
 Based in Lagos. Thinking in systems.
